@@ -9,8 +9,10 @@ Instruction to run the application
     -   dotnet ef migrations add InitialCreate
     -   dotnet ef database update
 
-before create a job make sure you have data into department and location tables. You can run the followind scripts to insert data into the tables
+before create a job make sure you have data into department and location tables. You can run the following scripts to insert data into the tables
+
 #################### DEPARTMENTS ###############################
+
 USE [teknotest]
 GO
 
@@ -28,6 +30,7 @@ INSERT INTO [dbo].[Departments]
      VALUES
            ("Accountent")
 GO
+
 #################### END ###############################
 
 #################### LOCATION ##################
