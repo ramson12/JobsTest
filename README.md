@@ -1,5 +1,7 @@
 This application uses SQL sever to connect to the database
+
 link for API documentation https://documenter.getpostman.com/view/10206655/2sA3JRXdrz
+
 Instruction to run the application
   - In the sql create a new database with name "teknotest".
   - Replace your server name in appsettings.js for the connection string
