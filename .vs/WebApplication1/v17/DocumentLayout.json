@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\ransom\\test\\webapplication1\\webapplication1\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\ransom\\test\\webapplication1\\webapplication1\\models\\updatejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\updatejobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\ransom\\test\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\ransom\\test\\webapplication1\\webapplication1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|c:\\users\\administrator\\desktop\\ransom\\test\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\webapplication1\\models\\joblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395F7D97-0933-41A2-8EBA-2AB4D001EBC8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\joblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:14:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\Login.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:09:29.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:03:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T09:25:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateJobRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\UpdateJobRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UpdateJobRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\UpdateJobRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UpdateJobRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:54:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobList.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\JobList.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\JobList.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Ransom\\Test\\WebApplication1\\WebApplication1\\Models\\JobList.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\JobList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:24:13.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
