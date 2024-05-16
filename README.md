@@ -6,7 +6,7 @@ Instruction to run the application
   - In the sql create a new database with name "teknotest".
   - Replace your server name in appsettings.js for the connection string
   - Run the following commands for database migration to create tables
-    -   dotnet ef migrations add InitialCreate
+    -   dotnet ef migrations add CreateTables
     -   dotnet ef database update
 
 before create a job make sure you have data into department and location tables. You can run the following scripts to insert data into the tables
